@@ -1,0 +1,79 @@
+
+@import url(https://fonts.googleapis.com/css?family=Armata);
+
+#background {
+	background-repeat: no-repeat;
+	position: relative;
+	height:100%;
+	margin-left: 10%;
+	opacity: 0.2;
+	background-attachment: fixed;
+
+}
+#background img {
+	position:  fixed;
+}
+
+#content {
+	z-index: -1;
+}
+
+body {
+	font-family: 'Armata', sans-serif;
+	color: silver;
+	position: center;
+	background-image: url('images/presence-iii.png');
+
+
+
+}
+
+p {
+	text-align: center;
+	font-family: 'Armata', sans-serif;
+	color: cadetblue;
+}
+
+.skillset {
+	text-align: relative;
+	cursor: crosshair;
+	color: silver;
+}
+
+
+.there {
+
+	text-align: right;
+	text-decoration: none;
+	color: silver;
+	font-size: 20px
+
+}
+
+.there:link {
+	color:white;
+	font-size: 20px
+}
+
+.there:visited {
+	color: green;
+	font-family: ;
+	font-size: 20px
+}
+
+.there:hover {
+	color: yellow;
+	font-family: ;
+	font-size: 20px;
+}
+
+.there:active {
+	color: orange;
+	font-family: ;
+	font-size: 20px
+}
+
+li {
+	text-decoration: none;
+	list-style: none;
+}

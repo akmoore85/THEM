@@ -1,0 +1,20 @@
+.header {
+	text-align: center;
+}
+
+.button_template {
+	display: block;
+	background-color: purple;
+}
+
+#red {
+	background-color: red;
+}
+
+#blue {
+	background-color: blue;
+}
+
+p {
+	background-color: blue;
+}

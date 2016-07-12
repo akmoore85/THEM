@@ -1,0 +1,209 @@
+body {
+	background-image: url('images/bgback.jpg');
+	position: relative;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.dropbtn {
+    background-color: #grey;
+    color: white;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+	background-color: purple;
+}
+
+.dropdown {
+	position: relative;
+	display:inline-block;
+}
+.dropdown-content {
+    cursor: crosshair;
+    color: darkmagenta;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba (0,0,0,0.2);
+    background-color: silver;
+}
+
+.dropdown-content a {
+	color: darkmagenta;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+.dropdown a:hover {background-color: #f1f1f1;}
+
+.show {display:block;}
+
+.acronym  h1 {
+	display: inline;
+	font-family: sans-serif, Arial;
+	font-size: 50px;
+	color: silver;
+	margin: 0;
+}
+
+.explanation  {
+	font-weight: bold;
+	display: inline;
+	font-family: Helvetica;
+	font-size: 35px;
+	color: darkmagenta;
+}
+
+.characters {
+	font-family: Nosifer;
+	text-align: center;
+	color: violet;
+	background-color: grey;
+	border-bottom: 150px;
+	border-top: 300px;
+	border: 4px dotted #;
+	margin-top: 50px
+}
+
+.heronames {
+	text-align: center;
+	text-decoration: none;
+	color: silver;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+#mugshot {
+	color: ;
+	font-family:;
+
+
+}
+#mugshot:link {
+	color: silver;
+
+}
+
+#mugshot:visited {
+	color:darkgrey;
+
+}
+#mugshot:hover {
+	color:orange ;
+	background-color: none;
+	text-decoration: none;
+
+}
+#mugshot:active {
+	color: orange;
+}
+#demiurge {
+	position: relative;
+    color: grey;
+    font-family: arial;
+
+}
+
+#demiurge:link {
+	color: silver;
+
+}
+
+#demiurge:visited {
+	color:darkgrey;
+
+}
+#demiurge:hover {
+	color:black;
+	background-color: none;
+	text-decoration: none;
+}
+
+#demiurge:active {
+	color: orange;
+}
+
+
+#gs {
+
+
+}
+#gs:link {
+	color: silver;
+
+}
+
+#gs:visited {
+	color:darkgrey;
+
+}
+#gs:hover {
+	color:#2A0D45;
+	background-color: none;
+	text-decoration: none;
+
+}
+#gs:active {
+	color: orange;
+}
+
+
+#ss {
+
+
+}
+
+#ss:link {
+	color: silver;
+
+}
+
+#ss:visited {
+	color:darkgrey;
+
+}
+#ss:hover {
+	color:#2A0D45;
+	background-color: none;
+	text-decoration: none;
+
+}
+#ss:active {
+	color: orange;
+}
+
+#spado {
+
+
+}
+
+#spado:link {
+	color: silver;
+
+}
+
+#spado:visited {
+	color:darkgrey;
+
+}
+#spado:hover {
+	color:#2A0D45;
+	background-color: none;
+	text-decoration: none;
+
+}
+#spado:active {
+	color: orange;
+}
